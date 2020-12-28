@@ -1,0 +1,39 @@
+.vscode
+build
+
+
+# CMake
+generate.stamp
+generate.stamp.depend
+cmake_install.cmake
+CMakeCache.txt
+CTestTestfile.cmake
+
+
+# Visual Studio Dirs
+.vs
+_3rdParty
+CMakeFiles
+
+# Visual Studio Files
+*.FileListAbsolute.txt
+*.vcxproj
+*.sln
+*.tlog
+*.pdb
+*.rule
+*.bin
+*.obj
+*.exe
+*.user
+*.log
+*.ilk
+*.filters
+*.recipe
+
+
+
+
+# Custom
+file.txt
+Testing/
